@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Web Programming\\BaiTap02\\BaiTap02\\BaiTap02.csproj": {}
+    "D:\\Web Programming\\Mrquangpig\\BaiTap02\\BaiTap02\\BaiTap02.csproj": {}
   },
   "projects": {
-    "D:\\Web Programming\\BaiTap02\\BaiTap02\\BaiTap02.csproj": {
+    "D:\\Web Programming\\Mrquangpig\\BaiTap02\\BaiTap02\\BaiTap02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web Programming\\BaiTap02\\BaiTap02\\BaiTap02.csproj",
+        "projectUniqueName": "D:\\Web Programming\\Mrquangpig\\BaiTap02\\BaiTap02\\BaiTap02.csproj",
         "projectName": "BaiTap02",
-        "projectPath": "D:\\Web Programming\\BaiTap02\\BaiTap02\\BaiTap02.csproj",
+        "projectPath": "D:\\Web Programming\\Mrquangpig\\BaiTap02\\BaiTap02\\BaiTap02.csproj",
         "packagesPath": "C:\\Users\\Minh Quang\\.nuget\\packages\\",
-        "outputPath": "D:\\Web Programming\\BaiTap02\\BaiTap02\\obj\\",
+        "outputPath": "D:\\Web Programming\\Mrquangpig\\BaiTap02\\BaiTap02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Minh Quang\\AppData\\Roaming\\NuGet\\NuGet.Config",

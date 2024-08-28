@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Web Programming\\BaiTap02\\",
+  "WorkspaceRootPath": "D:\\Web Programming\\Mrquangpig\\BaiTap02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FACBC4C-3534-43B7-B040-848E5C141D58}|BaiTap02\\BaiTap02.csproj|d:\\web programming\\baitap02\\baitap02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5FACBC4C-3534-43B7-B040-848E5C141D58}|BaiTap02\\BaiTap02.csproj|d:\\web programming\\mrquangpig\\baitap02\\baitap02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5FACBC4C-3534-43B7-B040-848E5C141D58}|BaiTap02\\BaiTap02.csproj|solutionrelative:baitap02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Web Programming\\BaiTap02\\BaiTap02\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\Web Programming\\Mrquangpig\\BaiTap02\\BaiTap02\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BaiTap02\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Web Programming\\BaiTap02\\BaiTap02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Web Programming\\Mrquangpig\\BaiTap02\\BaiTap02\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BaiTap02\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
