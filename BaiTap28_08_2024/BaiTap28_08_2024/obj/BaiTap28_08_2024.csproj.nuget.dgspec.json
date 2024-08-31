@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Web Programming\\BaiTap28_08_2024\\BaiTap28_08_2024\\BaiTap28_08_2024.csproj": {}
+    "D:\\Web Programming\\Mrquangpig\\BaiTap28_08_2024\\BaiTap28_08_2024\\BaiTap28_08_2024.csproj": {}
   },
   "projects": {
-    "D:\\Web Programming\\BaiTap28_08_2024\\BaiTap28_08_2024\\BaiTap28_08_2024.csproj": {
+    "D:\\Web Programming\\Mrquangpig\\BaiTap28_08_2024\\BaiTap28_08_2024\\BaiTap28_08_2024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web Programming\\BaiTap28_08_2024\\BaiTap28_08_2024\\BaiTap28_08_2024.csproj",
+        "projectUniqueName": "D:\\Web Programming\\Mrquangpig\\BaiTap28_08_2024\\BaiTap28_08_2024\\BaiTap28_08_2024.csproj",
         "projectName": "BaiTap28_08_2024",
-        "projectPath": "D:\\Web Programming\\BaiTap28_08_2024\\BaiTap28_08_2024\\BaiTap28_08_2024.csproj",
+        "projectPath": "D:\\Web Programming\\Mrquangpig\\BaiTap28_08_2024\\BaiTap28_08_2024\\BaiTap28_08_2024.csproj",
         "packagesPath": "C:\\Users\\Minh Quang\\.nuget\\packages\\",
-        "outputPath": "D:\\Web Programming\\BaiTap28_08_2024\\BaiTap28_08_2024\\obj\\",
+        "outputPath": "D:\\Web Programming\\Mrquangpig\\BaiTap28_08_2024\\BaiTap28_08_2024\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Minh Quang\\AppData\\Roaming\\NuGet\\NuGet.Config",
