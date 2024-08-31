@@ -38,6 +38,6 @@ app.MapControllerRoute(
 
 app.MapControllerRoute(
     name: "the-loai",
-    pattern: "the-loai/{action=Index1}/{id?}",
+    pattern: "the-loai/{action=Index}/{id?}",
     defaults: new { controller = "TheLoai", action = "Index" });
 app.Run();
