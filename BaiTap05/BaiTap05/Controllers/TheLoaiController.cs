@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using BaiTap05.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace BaiTap05.Controllers
 {
@@ -9,6 +10,15 @@ namespace BaiTap05.Controllers
             ViewBag.Ngay = "Ngày 28";
             ViewBag.Thang = "Tháng 02";
             ViewData["Nam"] = "Năm 2024";
+            return View();
+        }
+        public IActionResult Index2()
+        {
+            var theloai = new TheLoaiModelView
+            {
+                Id = 1,
+                Name = "Trinh Thám"
+            };
             return View();
         }
     }
