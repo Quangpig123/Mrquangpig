@@ -34,10 +34,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Web Programming/Mrquangpig/BTVNSlide20/BTVNSlide20/Views/Profile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Web Programming/Mrquangpig/BTVNSlide20/BTVNSlide20/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -52,6 +48,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Web Programming/Mrquangpig/BTVNSlide20/BTVNSlide20/Views/Tuan02/MayTinh.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVhbjAyXE1heVRpbmguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web Programming/Mrquangpig/BTVNSlide20/BTVNSlide20/Views/Tuan02/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVhbjAyXFByb2ZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Web Programming/Mrquangpig/BTVNSlide20/BTVNSlide20/Views/_ViewImports.cshtml]

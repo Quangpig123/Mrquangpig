@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BTVNSlide20")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0801bb689d303aca17b22d85315d97c33663e55c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59ec37772264198f69c4d1ec1eb644dccd6d6bb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BTVNSlide20")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BTVNSlide20")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
