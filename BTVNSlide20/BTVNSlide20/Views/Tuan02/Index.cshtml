@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div style="text-align: center;">
+    <h1>Bài tập</h1>
+
+    <div style="border: 1px solid black; padding: 20px; margin-top: 20px;">
+        <p><strong>Họ tên:</strong> @ViewBag.HoTen</p>
+        <p><strong>MSSV:</strong> @ViewBag.MSSV</p>
+        <p>Giới thiệu bản thân: Đây là phần giới thiệu cá nhân của bạn.</p>
+
+        <!-- Thêm liên kết vào tấm hình để chuyển sang trang Profile -->
+        <div style="margin-top: 20px;">
+            <a href="@Url.Action("Profile", "Home")">
+                <img src="~/images/profile.jpg" alt="Ảnh cá nhân" style="width: 150px; height: 150px; border-radius: 50%;">
+            </a>
+        </div>
+    </div>
+
+    <div style="margin-top: 50px; border-top: 1px solid black; padding-top: 10px;">
+        <p>&copy; @ViewBag.HoTen - @ViewBag.Nam</p>
+    </div>
+</div>
+
+
