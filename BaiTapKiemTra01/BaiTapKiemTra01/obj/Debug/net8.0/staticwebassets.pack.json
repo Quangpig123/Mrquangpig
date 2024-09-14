@@ -1,0 +1,481 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BaiTapKiemTra01.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BaiTapKiemTra01.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\fontAwesome.css",
+      "PackagePath": "staticwebassets\\css\\fontAwesome.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\css\\templatemo-style.css",
+      "PackagePath": "staticwebassets\\css\\templatemo-style.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\about-icon.png",
+      "PackagePath": "staticwebassets\\img\\about-icon.png"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\close.png",
+      "PackagePath": "staticwebassets\\img\\close.png"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\contact-icon.png",
+      "PackagePath": "staticwebassets\\img\\contact-icon.png"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\featured-icon.png",
+      "PackagePath": "staticwebassets\\img\\featured-icon.png"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\home-icon.png",
+      "PackagePath": "staticwebassets\\img\\home-icon.png"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\item-01.jpg",
+      "PackagePath": "staticwebassets\\img\\item-01.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\item-02.jpg",
+      "PackagePath": "staticwebassets\\img\\item-02.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\item-03.jpg",
+      "PackagePath": "staticwebassets\\img\\item-03.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\item-04.jpg",
+      "PackagePath": "staticwebassets\\img\\item-04.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\item-05.jpg",
+      "PackagePath": "staticwebassets\\img\\item-05.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\item-06.jpg",
+      "PackagePath": "staticwebassets\\img\\item-06.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\item-07.jpg",
+      "PackagePath": "staticwebassets\\img\\item-07.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\item-08.jpg",
+      "PackagePath": "staticwebassets\\img\\item-08.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\left-about-image.jpg",
+      "PackagePath": "staticwebassets\\img\\left-about-image.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\left-feature-image.png",
+      "PackagePath": "staticwebassets\\img\\left-feature-image.png"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\img\\loading.gif"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\next.png",
+      "PackagePath": "staticwebassets\\img\\next.png"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\prev.png",
+      "PackagePath": "staticwebassets\\img\\prev.png"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\project-item-01.jpg",
+      "PackagePath": "staticwebassets\\img\\project-item-01.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\project-item-02.jpg",
+      "PackagePath": "staticwebassets\\img\\project-item-02.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\project-item-03.jpg",
+      "PackagePath": "staticwebassets\\img\\project-item-03.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\project-item-04.jpg",
+      "PackagePath": "staticwebassets\\img\\project-item-04.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\project-item-05.jpg",
+      "PackagePath": "staticwebassets\\img\\project-item-05.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\project-item-06.jpg",
+      "PackagePath": "staticwebassets\\img\\project-item-06.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\project-item-07.jpg",
+      "PackagePath": "staticwebassets\\img\\project-item-07.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\project-item-08.jpg",
+      "PackagePath": "staticwebassets\\img\\project-item-08.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\projects-icon.png",
+      "PackagePath": "staticwebassets\\img\\projects-icon.png"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\prove-bg.png",
+      "PackagePath": "staticwebassets\\img\\prove-bg.png"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\img\\right-about-image.jpg",
+      "PackagePath": "staticwebassets\\img\\right-about-image.jpg"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\vendor\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\vendor\\jquery-1.11.2.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.11.2.min.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\vendor\\modernizr-2.8.3-respond-1.4.2.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-2.8.3-respond-1.4.2.min.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\js\\vendor\\npm.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\npm.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Web Programming\\Mrquangpig\\BaiTapKiemTra01\\BaiTapKiemTra01\\wwwroot\\videos\\video.mp4",
+      "PackagePath": "staticwebassets\\videos\\video.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BaiTapKiemTra01.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BaiTapKiemTra01.props",
+      "PackagePath": "build\\BaiTapKiemTra01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BaiTapKiemTra01.props",
+      "PackagePath": "buildMultiTargeting\\BaiTapKiemTra01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BaiTapKiemTra01.props",
+      "PackagePath": "buildTransitive\\BaiTapKiemTra01.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

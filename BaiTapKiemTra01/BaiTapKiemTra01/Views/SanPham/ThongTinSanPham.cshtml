@@ -1,0 +1,14 @@
+﻿@model BaiTapKiemTra01.Models.SanPhamViewModel
+
+<div class="container">
+    <h3>Thông tin sản phẩm</h3>
+
+    <p>Tên sản phẩm: @Model.TenSanPham</p>
+    <p>Giá bán: @Model.GiaBan.ToString("C")</p>
+    <p>Ảnh mô tả: @Model.AnhMoTa?.FileName</p>
+
+    @if (Model.AnhMoTa != null)
+    {
+        <img src="~/img/left-about-image.jpg" alt="Ảnh mô tả" class="img-thumbnail" />
+    }
+</div>

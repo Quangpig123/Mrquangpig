@@ -1,0 +1,48 @@
+﻿@model BaiTapKiemTra01.Models.TaiKhoanViewModel
+
+<h2>Đăng Ký Tài Khoản</h2>
+
+@using (Html.BeginForm("DangKy", "TaiKhoan", FormMethod.Post))
+{
+    <div class="container">
+        <h3>Đăng ký</h3>
+
+        <form method="post">
+            <div class="form-group">
+                <label asp-for="TenTaiKhoan">Tên tài khoản:</label>
+                <input asp-for="TenTaiKhoan" class="form-control" />
+                <span asp-validation-for="TenTaiKhoan" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MatKhau">Mật khẩu:</label>
+                <input asp-for="MatKhau" type="password" class="form-control" />
+                <span asp-validation-for="MatKhau" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="HoTen">Họ tên:</label>
+                <input asp-for="HoTen" class="form-control" />
+                <span asp-validation-for="HoTen" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Tuoi">Tuổi:</label>
+                <input asp-for="Tuoi" type="number" class="form-control" />
+                <span asp-validation-for="Tuoi" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Đăng ký</button>
+        </form>
+
+        <hr />
+        @if (Model != null && Model.TenTaiKhoan != null)
+        {
+            <h3>Thông tin đã nhập:</h3>
+            <p>Tên tài khoản: @Model.TenTaiKhoan</p>
+            <p>Mật khẩu: @Model.MatKhau</p>
+            <p>Họ tên: @Model.HoTen</p>
+            <p>Tuổi: @Model.Tuoi</p>
+        }
+    </div>
+}

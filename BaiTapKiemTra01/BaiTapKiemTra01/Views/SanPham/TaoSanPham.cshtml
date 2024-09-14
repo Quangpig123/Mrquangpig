@@ -1,0 +1,27 @@
+﻿@model BaiTapKiemTra01.Models.SanPhamViewModel
+
+<div class="container">
+    <h3>Tạo sản phẩm</h3>
+
+    <form asp-action="TaoSanPham" asp-controller="SanPham" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="TenSanPham">Tên sản phẩm:</label>
+            <input asp-for="TenSanPham" class="form-control" />
+            <span asp-validation-for="TenSanPham" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="GiaBan">Giá bán:</label>
+            <input asp-for="GiaBan" type="number" step="0.01" class="form-control" />
+            <span asp-validation-for="GiaBan" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="AnhMoTa">Ảnh mô tả:</label>
+            <input asp-for="AnhMoTa" type="file" class="form-control" />
+            <span asp-validation-for="AnhMoTa" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Tạo sản phẩm</button>
+    </form>
+</div>
