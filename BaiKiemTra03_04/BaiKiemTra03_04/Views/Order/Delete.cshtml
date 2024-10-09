@@ -1,0 +1,63 @@
+﻿@using BaiKiemTra03_04.Models
+@model Order
+
+<div class="container">
+    <h3>Xóa Đơn hàng</h3>
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <form method="post" asp-action="DeleteConfirmed">
+        <input type="hidden" asp-for="OrderID" />
+
+        <div class="form-group">
+            <label asp-for="OrderID">Mã đơn hàng</label>
+            <input asp-for="OrderID" type="text" class="form-control" readonly />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="OrderDate">Ngày đặt hàng</label>
+            <input asp-for="OrderDate" type="date" class="form-control" readonly />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="TotalAmount">Tổng giá trị</label>
+            <input asp-for="TotalAmount" type="number" class="form-control" readonly />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="OrderStatus">Tình trạng đơn hàng</label>
+            <input asp-for="OrderStatus" type="text" class="form-control" readonly />
+        </div>
+
+        <button type="submit" class="btn btn-danger">Xóa</button>
+        <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+    </form>
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#confirmDeleteBtn').click(function () {
+                var form = $('#deleteForm');
+                var url = '@Url.Action("DeleteConfirmed", "Order")';
+
+                $.ajax({
+                    type: "POST",
+                    url: url,
+                    data: form.serialize(),
+                    success: function (response) {
+                        if (response.success) {
+                            alert(response.message);
+                            window.location.href = '@Url.Action("Index", "Order")'; // Chuyển đến trang danh sách
+                        } else {
+                            alert(response.message);
+                        }
+                    },
+                    error: function () {
+                        alert("Đã xảy ra lỗi, vui lòng thử lại.");
+                    }
+                });
+            });
+        });
+    </script>
+}

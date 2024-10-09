@@ -1,0 +1,25 @@
+﻿@using BaiKiemTra03_04.Models
+@model Order
+
+<div class="container">
+    <h3>Chi tiết Đơn hàng</h3>
+    <div>
+        <p>
+            <strong>Mã đơn hàng:</strong> @Model.OrderID
+        </p>
+        <p>
+            <strong>Ngày đặt hàng:</strong> @Model.OrderDate.ToString("dd/MM/yyyy")
+        </p>
+        <p>
+            <strong>Tổng giá trị:</strong> @Model.TotalAmount.ToString("C")
+        </p>
+        <p>
+            <strong>Tình trạng đơn hàng:</strong> @Model.OrderStatus
+        </p>
+    </div>
+
+    <a asp-action="Index" class="btn btn-primary">Quay về danh sách</a>
+    <a asp-action="Edit" asp-route-id="@Model.OrderID" class="btn btn-warning">Chỉnh sửa</a>
+    <a asp-action="Delete" asp-route-id="@Model.OrderID" class="btn btn-danger">Xóa</a>
+</div>
+

@@ -1,0 +1,34 @@
+﻿@using BaiKiemTra03_04.Models
+@model Order
+
+<div class="container">
+    <h3>Sửa Đơn hàng</h3>
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <form method="post" asp-action="Edit">
+        <div class="form-group">
+            <label asp-for="OrderID">Mã đơn hàng</label>
+            <input asp-for="OrderID" type="text" class="form-control" readonly />
+            <span asp-validation-for="OrderID" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="OrderDate">Ngày đặt hàng</label>
+            <input asp-for="OrderDate" type="date" class="form-control" />
+            <span asp-validation-for="OrderDate" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="TotalAmount">Tổng giá trị</label>
+            <input asp-for="TotalAmount" type="number" class="form-control" />
+            <span asp-validation-for="TotalAmount" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="OrderStatus">Tình trạng đơn hàng</label>
+            <input asp-for="OrderStatus" type="text" class="form-control" />
+            <span asp-validation-for="OrderStatus" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Cập nhật</button>
+    </form>
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}
